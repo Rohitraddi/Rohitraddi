@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Rohitraddi
+- 👋 Hi, I’m @Rohit
 - 👀 I’m interested in ... web developing 
 - 🌱 I’m currently learning ...engineering 
 - 💞️ I’m looking to collaborate on ...any good company 
